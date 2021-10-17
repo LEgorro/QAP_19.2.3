@@ -1,8 +1,4 @@
 from app.calculator import Calculator
-import pytest
-
-
-from app.calculator import Calculator
 
 
 class TestCalc:
